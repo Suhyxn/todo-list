@@ -6,4 +6,4 @@
 
 ## 🌐 배포 URL
 
-- <a href="https://app.netlify.com/sites/suhyxn-todolist/settings/general">바로가기</a>
+- <a href="https://suhyxn-todolist.netlify.app/#/">바로가기</a>
